@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cupcake
+comment1.params=tX\ tY\ eT
+comment1.target=Cupcake(int,\ int,\ int)
+comment2.params=f
+comment2.target=double\ curveX(double)
+comment3.params=f
+comment3.target=double\ curveY(double)
+comment4.params=
+comment4.target=void\ checkHitAvatar()
+numComments=5

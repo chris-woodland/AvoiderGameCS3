@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AvoiderWorld
+comment1.params=
+comment1.target=AvoiderWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ generatePowerItems()
+comment5.params=type\ freq
+comment5.target=void\ generatePowerItem(int,\ int)
+comment6.params=type\ targetX\ targetY\ expireTime
+comment6.target=greenfoot.Actor\ createPowerItem(int,\ int,\ int,\ int)
+comment7.params=
+comment7.target=void\ generateStars()
+comment8.params=
+comment8.target=void\ endGame()
+comment9.params=
+comment9.target=void\ increaseLevel()
+numComments=10
